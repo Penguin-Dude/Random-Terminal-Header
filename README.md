@@ -1,8 +1,11 @@
 # Terminal-joke
 it's a simple script that comes with a random joke or fact as a terminal banner and then pipes it through lolcat
 
-First make sure you have installed lolcat
+INSTALL
+1. Make sure lolcat is installed (https://github.com/busyloop/lolcat)
 
-1. git clone https://github.com/Penguin-Dude/Terminal-joke.git
+2. in terminal type  `git clone https://github.com/Penguin-Dude/Terminal-joke.git` to clone the repository
 
-2. open .bashrc and add the file .random-joke.sh to it
+3. also in terminal `chmod +x ./Terminal-joke/.random-joke.sh`
+
+4.add the line `.//Terminal-joke/.random-joke.sh` to the .bashrc file
