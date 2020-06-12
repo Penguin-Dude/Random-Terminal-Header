@@ -8,4 +8,4 @@ INSTALL
 
 3. also in terminal `chmod +x ./Terminal-joke/.random-joke.sh`
 
-4. add the line `.//Terminal-joke/.random-joke.sh` to the .bashrc file
+4. add the line `~/Terminal-joke/.random-joke.sh` to the .bashrc file
